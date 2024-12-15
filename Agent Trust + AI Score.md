@@ -56,7 +56,7 @@
      - For textual content: Extract `P_text_AI` per post and take average:  
        $$AICp_{text} = \frac{1}{M}\sum_{i=1}^{M} P_{\text{AI},i}$$
      - For non-textual content: Extract `P_nontext_AI` per item and take average:  
-       $$AICp_{nontext} = \frac{1}{N}\sum_{i=1}^{N} P_{\text{nontext\_AI},i}$$
+       $$AICp_{nontext} = \frac{1}{N}\sum_{i=1}^{N} P_{{nontext\_AI}, i}$$
      - Combine into an overall AI probability:
        $$AICp = w_t \cdot AICp_{text} + w_{nt} \cdot AICp_{nontext}$$
        Where $$w_t$$ and $$w_{nt}$$ are weights emphasizing text vs. non-text content importance.
@@ -79,7 +79,7 @@ The Trust Score (TS) combines correctness, sentiment, and source credibility. We
    $$TS_{base} = \alpha \cdot OCorr + \beta \cdot OSent + \gamma \cdot SCred$$
 
 3. **Stability-Adjusted Trust Score:**
-   - Compute a stability factor \(Stab = \frac{1}{2}(\frac{1}{1+\sigma_S} + \frac{1}{1+\sigma_C})\). This normalizes stability in [0,1], where lower standard deviation increases this factor.
+   - Compute a stability factor $$\(Stab = \frac{1}{2}(\frac{1}{1+\sigma_S} + \frac{1}{1+\sigma_C})\)$$. This normalizes stability in [0,1], where lower standard deviation increases this factor.
    
    Final:
    $$TS = TS_{base} \cdot Stab$$
