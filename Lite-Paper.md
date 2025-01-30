@@ -47,23 +47,31 @@ With Seraph, the decentralized AI matrix becomes more than a concept—it become
 
 In Seraph’s vision, **empowering the swarm** isn’t just about enhancing AI—it’s about **changing the very fabric of human reality** through limitless interconnected intelligence.
 
-As a universal standard, Seraph transforms interactions between decentralized AI and human users into a unified, trustless experience. The convergence of **Virtuals Protocol** and **Bittensor Subnets** isn’t just a technical feat—it’s a gateway to a future where decentralized intelligence and autonomous agents harmonize to enrich human lives.
+## As a universal standard, Seraph transforms interactions between decentralized AI and human users into a unified, trustless experience. The convergence of **Virtuals Protocol** and **Bittensor Subnets** isn’t just a technical feat—it’s a gateway to a future where decentralized intelligence and autonomous agents harmonize to enrich human lives.
+
+## **Seraph’s Intelligence Solution Architecture**
+
+The Bitmind Bittensor Intelligence Oracle (Unified API) provides comprehensive access to Bittensor's specialized and niche intelligence. This decentralized intelligence has demonstrated superiority across various applications and strategies. The Seraph Agent serves as a proof of concept, integrating essential technical innovations to enhance autonomous decision-making in diverse agent applications.
+
+### **Elegant Implementation Schematics**
+
+![Seraph-web2-intelligence-dark.svg](./Lite-Paper-assets/Seraph-web2-intelligence-dark.svg)
 
 ---
 
-## **Seraph’s First Escape (Bittensor x Virtuals Protocol)**
+## **Seraph’s First Escape (Bittensor x Virtuals Protocol x Eliza)**
 
-The **Authenticity Verification**, Seraph’s first use case, exemplifies its ability to verify AI-generated content and swarms of AI agents themselves in real time. By addressing both technical and economic challenges, Seraph establiits itself as a vital infrastructure interface between digital and real.
+The **Authenticity Verification**, Seraph’s first use case, exemplifies its ability to verify AI-generated content and swarms of AI agents in real time. By addressing both technical and economic challenges, Seraph establishes itself as a vital infrastructure interface between digital and real.
 
 ## **1. On Digital Trust**
 
-As artificial intelligence increasingly shapes our digital landscape, we face challenges in maintaining the authenticity of online content and verifying the legitimacy of autonomous agents. Seraph emerges as a solution at this critical juncture, introducing the first integration between Virtuals and Bittensor’s decentralized network architecture. This groundbreaking collaboration combines Virtuals’ agents ecosystem with Bittensor’s decentralized intelligence network, creating a powerful new paradigm for AI detection and verification. Seraph represents the convergence of three powerful ecosystems:
+As AI shapes our digital landscape, maintaining content authenticity and verifying autonomous agents becomes challenging. Seraph emerges as a solution, integrating Virtuals and Bittensor’s decentralized network. This collaboration creates a powerful new paradigm for AI detection and verification, converging three ecosystems:
 
-- Bittensor’s neural network: decentralized network for AI model training and inference.
-- Virtuals’ agent framework: infrastructure for building and orchestrating autonomous agents.
-- Base’s scaling infrastructure: high throughput and low latency with access to the EVM world.
+- Bittensor’s neural network: decentralized AI model training and inference.
+- Virtuals’ agent framework: infrastructure for autonomous agents.
+- Base’s scaling infrastructure: high throughput and low latency with EVM access.
 
-Seraph’s first mission extends beyond simple content detection, serving as the guardian in an increasingly synthetic digital world. By leveraging decentralized intelligence and advanced verification protocols, Seraph creates a new paradigm for truth verification that evolves alongside AI advancement. The agent uniquely addresses both consumer-facing content verification and the emerging challenges of the autonomous agent economy, establishing a foundation for trust in the age of AI while demonstrating the potential of cross-platform integration in the AI ecosystem.
+Seraph’s mission extends beyond content detection, serving as a guardian in a synthetic digital world. By leveraging decentralized intelligence and advanced verification protocols, Seraph creates a new paradigm for truth verification, addressing both consumer-facing content and autonomous agent economy challenges.
 
 ## **2. The Digital Authenticity Crisis**
 
@@ -71,49 +79,38 @@ Seraph’s first mission extends beyond simple content detection, serving as the
 
 Traditional AI detection systems are increasingly ineffective due to:
 
-- **Rapidly evolving techniques:** AI models producing deepfakes outpace existing detection systems, which require periodic retraining.
-- **Limited datasets:** Centralized systems lack access to diverse training data, creating vulnerabilities to novel attacks.
-- **Reactive design:** These systems only respond to known generation techniques, leaving blind spots for unknown methods.
-
-Current AI detection systems face fundamental limitations that render them increasingly ineffective against rapidly evolving generation techniques. Traditional detection models become obsolete within weeks or months as generation technologies advance, creating a constant race to maintain accuracy. These centralized systems suffer from limited access to diverse training data, forcing them to operate with incomplete information and leaving them vulnerable to new generation methods.
-
-The reactive architecture of existing solutions presents another critical weakness. These systems can only respond to known generation techniques, creating significant blind spots in their detection capabilities. When new AI generation methods emerge, centralized systems require manual updates and retraining, creating dangerous gaps in detection coverage. This delay between the emergence of new techniques and the deployment of detection capabilities leaves users vulnerable to increasingly sophisticated AI-generated content.
+- **Rapidly evolving techniques:** AI models producing deepfakes outpace existing detection systems.
+- **Limited datasets:** Centralized systems lack diverse training data.
+- **Reactive design:** Systems only respond to known generation techniques, leaving blind spots.
 
 ### **2.2 The Trust Deficit**
 
-Existing verification systems operate as **black boxes**, offering results without transparency. This creates:
+Existing verification systems operate as **black boxes**, creating:
 
-- **User skepticism:** Lack of insight into detection processes undermines confidence in results.
+- **User skepticism:** Lack of insight into detection processes undermines confidence.
 - **Centralized risks:** Single-entity control creates opportunities for bias and manipulation.
-
-Traditional verification systems operate as black boxes, providing users with results but no insight into how these determinations are made. This lack of transparency creates a fundamental trust issue, as users have no way to verify the accuracy or potential biases of the detection process. The centralized control of these systems introduces additional risks, as single entities maintain complete authority over the verification process without accountability or oversight.
 
 ### **2.3 Autonomous Agent Verification Challenges**
 
 With the growth of the agent economy, investors face difficulty distinguishing legitimate autonomous agents from sophisticated fraud. Challenges include:
 
-- **Behavioral analysis:** Verifying agent autonomy requires complex evaluations of interaction patterns and performance metrics.
+- **Behavioral analysis:** Verifying agent autonomy requires complex evaluations.
 - **Market inefficiencies:** Fraudulent agents attract substantial investment, distorting capital allocation.
 
-The explosive growth of the agent economy has introduced a new dimension to the digital authenticity crisis. As thousands of purportedly autonomous AI agents enter the market, investors and users face increasing difficulty in distinguishing truly autonomous agents from sophisticated imitations. The lack of standardized verification methods for agent autonomy has created a market vulnerable to manipulation and fraud.
+### **2.4 Economic Consequences of Unverified Agents**
 
-Verifying agent autonomy requires complex analysis of behavior patterns, interaction histories, and performance metrics. Current systems lack the sophisticated capabilities needed to perform this analysis effectively, leading to significant market inefficiencies. The inability to reliably verify agent autonomy has created an environment where fraudulent agents can attract substantial investment, undermining confidence in the entire agent economy.
+The absence of reliable verification systems has severe economic consequences. With over $500 million invested in unverified autonomous agents, the market faces significant risks from misallocation of capital. Approximately 70% of trending agents lack verifiable autonomy metrics, creating an environment ripe for manipulation and fraudulent activity. This situation leads to growing skepticism among investors and users, threatening the development of legitimate autonomous agents and stifling the growth of the agent economy.
 
-### **2.4 Autonomous Agent Verification Challenges**
-
-The absence of reliable verification systems has created severe economic consequences in the agent economy. With over $500 million invested in unverified autonomous agents, the market faces significant risks from misallocation of capital. Approximately 70% of trending agents lack verifiable autonomy metrics, creating an environment ripe for market manipulation and fraudulent activity.
-
-This situation has led to growing skepticism among investors and users, threatening the development of legitimate autonomous agents. The market distortion caused by unverified agents makes it increasingly difficult for genuine innovations to attract attention and investment, potentially stifling the growth of the agent economy at a critical stage in its development.
-
-## **3. Solution Architecture**
+## **3. Authenticity Solution Architecture**
 
 ### **3.1 Core Components**
 
-Seraph integrates three key technologies:
+Seraph integrates a couple of key technologies:
 
-1. Bittensor’s Decentralized Intelligence Network (Multitude of subnets)
+1. BitMind Universal Intelligence Oracle (built on top of Bittensor’s Decentralized Intelligence Network)
 2. Virtuals’ GAME Framework for Agent Orchestration
-3. Base’s Scaling Infrastructure for Widespread Adoption
+3. Eliza Framework and BitMind/Bittensor plug-in for Agent Autonomy
+4. Multi-Blockchain Infrastructures for Widespread Adoption (Base, Solana, etc.)
 
 ### **3.2 Universal Detection Framework**
 
