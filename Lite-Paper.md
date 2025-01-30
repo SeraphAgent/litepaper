@@ -26,7 +26,7 @@ Seraph represents the realization of a decentralized AI matrix where boundless i
 - **Seamless Matrix Escape:** Seraph unifies the modular, agent-centric framework of Virtuals Protocol with Bittensor’s decentralized subnets. This integration empowers AI agents to draw from the collective intelligence of Bittensor while maintaining robust on-chain centered socio-economics.
 - **Autonomous Swarms:** Agents interacting with Seraph exhibit self-regulation and autonomy, executing tasks collaboratively across both digital and real-world domains. From financial modeling to synthetic content creation, their operations redefine boundaries.
 - **Human-First AI Agent:** Seraph redefines the relationship between humans and decentralized AI by not only enhancing how humans access intelligence but revolutionizing how **swarms of autonomous AI agents interact with it**. it acts as both the medium and the enabler, fostering a symbiotic ecosystem that **empowers the swarm** and in turn **transforms human reality**.
-- **Decentralized AI Economy:** Leveraging the Virtuals Protocol and Bittensor Subnets, Seraph democratizes the flow of value and information in decentralized AI ecosystems, enabling scalable, trustless collaboration.
+- **Decentralized AI Economy:** Leveraging Virtuals Protocol, Eliza framework, and Bittensor Subnets, Seraph democratizes various flows of value and revenue, enabling scalable, trustless, and fruitful collaboration.
 
 ### **Empower the Swarm, Transform Humanity**
 
