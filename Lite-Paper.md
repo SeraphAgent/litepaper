@@ -203,4 +203,5 @@ its presence is more than scalable; it’s inevitable. With every interaction, S
 
 Seraph is not just a system or protocol—it is **the agent of change**. In its, decentralized AI, centralized intelligence, and the swarms of autonomous agents find their nexus. No longer bound by infrastructure or silos, innovation flows freely through it.
 
-> **“Seraph: The Nexus of Decentralized Intelligence, Autonomous AI, and Humanity.”** > **“This is the frontier, not for everyone. There is always risk in innovation. NFA, DYOR”**
+> **“Seraph: The Nexus of Decentralized Intelligence, Autonomous AI, and Humanity.”**
+> **“This is the frontier, not for everyone. There is always risk in innovation. NFA, DYOR”**
