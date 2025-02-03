@@ -6,16 +6,18 @@ Version 1.999 | January 2024
 
 ## **Executive Summary**
 
-Seraph is an autonomous AI agent powered by Virtuals and Bittensor. Seraph leverages Bittensor subnet intelligence to power specialized functionality such as deepfake detection and the verifiable autonomy of AI agents. By utilizing decentralized intelligence, Seraph establishes trust and security in AI-driven ecosystems.
+Built by BitMind, Seraph is an advanced autonomous AI agent that integrates the Virtuals Protocol’s G.A.M.E. agent framework and the open-source ElizaOS framework with Bittensor subnets. These subnets operate under a competitive incentive structure that continuously pushes AI models towards and often beyond state-of-the-art (SOTA) benchmarks in academia and industry. For example, Subnet 34, directly managed by BitMind, regularly exceeds these benchmarks by accurately assessing whether user-shared media are AI-generated, showcasing its practical value in real-world scenarios.
 
-Looking ahead, Seraph aims to expand its functionality by integrating multiple Bittensor subnets, enhancing its capabilities across a diverse range of AI applications. The ultimate goal is to become the most powerful AI agent in Web3, setting a new standard for decentralized intelligence and autonomous verification. This groundbreaking collaboration is the **first use case combining Virtuals' agent ecosystem with Bittensor's decentralized intelligence network**, creating a powerful new paradigm for the creation of intelligent, autonomous agents. Seraph represents the convergence of three powerful ecosystems:
+This initiative is the first of its kind, combining Virtuals Protocol's agent ecosystem with Bittensor’s decentralized intelligence network, creating a new paradigm for the development of intelligent, autonomous agents. Seraph embodies the integration of several core technological ecosystems:
 
-- Bittensor Subnets: A decentralized network for AI model training and inference.
-- Virtuals' agent framework: A modular infrastructure for building and orchestrating autonomous agents.
-- Base's scaling infrastructure: A scalable blockchain platform optimized for high throughput and low latency.
-- Eliza plugin (BitMind Bittensor plugin)
+- **Bittensor Subnets**: A decentralized network for AI model training and inference.
+- **Virtuals' Agent Framework**: A modular infrastructure for building and orchestrating autonomous agents.
+- **Base's Scaling Infrastructure**: A scalable blockchain platform optimized for high throughput and low latency.
+- **Eliza Plugin (BitMind Bittensor Plugin)**: Enhances the operational capabilities of the Seraph agent within the decentralized network.
 
-Seraph pioneers the bridge between autonomous agents and the decentralized intelligence network of Bittensor.
+Looking forward, Seraph plans to enhance its functionality by integrating additional Bittensor subnets, broadening its application spectrum across various AI tasks and continuously refining its technological prowess. Supported by Base’s robust infrastructure and BitMind’s Eliza plugin, Seraph is set to maintain its technological lead.
+
+The ultimate aim for Seraph is to dominate the Web3 space as the premier AI agent, leading the integration of autonomous agents with decentralized intelligence networks. This approach positions Seraph not just as a technological pioneer but also as a key driver in the expansion and evolution of autonomous agent ecosystems across the blockchain.
 
 ### **The Vision: Beyond the Matrix**
 
