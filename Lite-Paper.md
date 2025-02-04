@@ -13,7 +13,7 @@ This initiative, the first to merge Virtuals Protocol's agent ecosystem with Bit
 - BitMind Bittensor SDKs, Agent Plugins: Enhances Seraph's operational capabilities with Bittensor's evolving inference network.
 - ElizaOS, Virtuals Protocol's Agent Frameworks: Modular infrastructure for autonomous agent orchestration.
 - Base's Scaling Infrastructure: High throughput, low latency blockchain platform.
-- Opacity verifiable inference (zkTLS AVS on EigenLayer)
+- Opacity's verifiable inference (zkTLS AVS on EigenLayer)
 
 Seraph plans to expand its functionality by integrating more Bittensor subnets, enhancing its AI capabilities and maintaining its technological lead with a best-of-all-worlds approach to agent frameworks and blockchain integrations.
 
